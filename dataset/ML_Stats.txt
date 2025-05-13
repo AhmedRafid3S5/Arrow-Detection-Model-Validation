@@ -1,0 +1,41 @@
+For model 1
+Train DataSet, Validate DataSet,
+328            172
+
+
+{For model 2 with 10 epoch
+Train DataSet, Validate DataSet,
+328            420
+train Loss: 1.5870 Acc: 0.5152
+val Loss: 1.2331 Acc: 0.5024
+train Loss: 1.1334 Acc: 0.5366
+val Loss: 0.8620 Acc: 0.5857
+train Loss: 0.8891 Acc: 0.6037
+val Loss: 1.2668 Acc: 0.5571
+train Loss: 0.7462 Acc: 0.6067
+val Loss: 0.7137 Acc: 0.6071
+train Loss: 0.9792 Acc: 0.5671
+val Loss: 0.7698 Acc: 0.6167
+train Loss: 0.9390 Acc: 0.6189
+val Loss: 0.8564 Acc: 0.5571
+train Loss: 0.7789 Acc: 0.6067
+val Loss: 1.1796 Acc: 0.5500
+train Loss: 0.7730 Acc: 0.5945
+val Loss: 0.8278 Acc: 0.5810
+train Loss: 0.7052 Acc: 0.6372
+val Loss: 0.7519 Acc: 0.6262
+train Loss: 0.8609 Acc: 0.5915
+val Loss: 0.7992 Acc: 0.6024
+Training complete!
+
+comment Error : 4 images out of 15 were predicted wrong
+}
+
+
+{
+
+For model 2 with 20 epoch
+
+
+}
+
